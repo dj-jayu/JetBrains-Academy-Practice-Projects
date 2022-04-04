@@ -82,6 +82,10 @@ public class Number {
     }
 
     public boolean isSunny() {return sunny;}
+    
+    public boolean isSquare() {
+        return this.square;
+    }
 
     // setters
     public void setHappy() {
@@ -333,9 +337,5 @@ public class Number {
                 return this.isSad();
         }
         return false;
-    }
-
-    private boolean isSquare() {
-        return this.square;
     }
 }
