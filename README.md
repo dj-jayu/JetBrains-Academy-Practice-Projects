@@ -1,2 +1,2 @@
 # JetBrains-Academy-Practice-Projects
-A place to store some Jetbrains Academy Projects code
+Personal solutions to Jetbrains Academy Projects
